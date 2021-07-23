@@ -1,6 +1,13 @@
 /* PC */
 @media (min-width: 64em) {
+    
+}
 
+/* PC & Tablet  */
+@media (min-width: 46.25em) {
+    #nav li:hover .subnav {
+        display: block;
+    }
 }
 
 /* Tablet & mobile */
